@@ -1,0 +1,55 @@
+.nav-link:hover{
+    color: rgb(43,159,63) !important;
+}
+.navbar{
+    z-index: 9999 !important;
+}
+.bg-g{
+    background-color: rgba(33, 48, 93, 0.856) !important;
+}
+.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 29.6rem;
+    text-align: center;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+  }
+
+.background-img{
+    background: url(https://s1.static.brasilescola.uol.com.br/be/vestibular/87b68bac7b4c748b3fc2e1fb5d38dfa9.jpg) center fixed;
+    background-size: cover;
+}
+.text-center{
+    text-align: justify !important;
+}
+
+.text-wi{
+    color: azure !important;
+}
+.text-main{
+    color: rgb(50,151,78) !important;
+}
+.mask {
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+.bg-gradient-dark {
+    background-image: linear-gradient(195deg, #42424a 0%, #191919 100%);
+  }
+.one-up{
+    z-index: 100 !important;
+}
+.scrollspy-art{
+    height: 350px;
+    margin-top: .5rem;
+    overflow: auto;
+}
